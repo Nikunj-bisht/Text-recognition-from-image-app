@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178801330335",
+    "firebase_url": "https://photoedit-4c8a6.firebaseio.com",
+    "project_id": "photoedit-4c8a6",
+    "storage_bucket": "photoedit-4c8a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178801330335:android:3a08ac190a6c4c332d3aaa",
+        "android_client_info": {
+          "package_name": "com.fire.photoedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178801330335-14srdo2kc8dif4bv5st3r05liv88oo7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fire.photoedit",
+            "certificate_hash": "3ac1634f98f02a4090ce56959438cbde0a4baef9"
+          }
+        },
+        {
+          "client_id": "178801330335-7ikdls9tqn7ih7sad6f4ecfstvp381at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7eb1i83Je_suDh0CjQv1U_ckMZb-Smk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178801330335-7ikdls9tqn7ih7sad6f4ecfstvp381at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
